@@ -9,7 +9,7 @@ const awsConfig = {
     }
   },
   API: {
-    baseUrl: process.env.REACT_APP_API_BASE_URL // e.g., https://xxxxxxxxxx.execute-api.ap-south-1.amazonaws.com
+    baseUrl: '' //process.env.REACT_APP_API_BASE_URL // e.g., https://xxxxxxxxxx.execute-api.ap-south-1.amazonaws.com
   }
 };
 
